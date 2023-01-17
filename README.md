@@ -1,6 +1,6 @@
 # 中文標點符號預測資料集
 <!-- ZH-Wiki Punctuation Restore Dataset -->
-
+[資料集下載](https://github.com/p208p2002/ZH-Wiki-Punctuation-Restore-Dataset/releases/)
 ## 資料集描述
 ### 資料來源
 中文維基百科
