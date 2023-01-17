@@ -1,0 +1,5 @@
+*.zip
+text/
+out/
+__py*/
+.venv
