@@ -21,6 +21,6 @@
 2. 解壓縮檔案（若有需要）
 3. 使用 [wikiextractor](https://github.com/attardi/wikiextractor)抽取資料
 ```bash
-$ wikiextractor -b 20M --json zhwiki-20220601-pages-articles-multistream.xml
+$ wikiextractor -b 20M --json xxx.xml.bz2
 ```
 4. 執行`make_dataset.py`
